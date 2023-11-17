@@ -21,11 +21,11 @@
     <div align= "center"> <a href="https://hits.seeyoufarm.com"> <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnaranararan%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/></a>
        </div> 
     </div>
-5인 프로젝트    
-담당모듈
-- 로그인(시큐리티), 병원관계자, 병원리뷰, 분양게시판(사진첨부) + 댓글
+  <div style="text-align: left;">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> ✅ 담당모듈 & 주요기능 </h2> <br> 
+- 로그인(시큐리티), 병원관계자, 병원리뷰, 분양게시판(사진첨부) + 댓글 <br>
 
-주요 기능
+<h2>주요 기능</h2>
 - 회원가입 시 사업자등록번호 상태조회(국세청 api)를 하여 국세청에 등록된 번호인 경우에만 회원가입이 가능하다.
   <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 화면 구성 </h2> <br> 
