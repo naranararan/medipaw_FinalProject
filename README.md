@@ -1,11 +1,5 @@
 # 쌍용 파이널 프로젝트 - 동물병원 예약 시스템(Medipaw)
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Medipaw&fontSize=90" />
-
-<img width="898" alt="image" src="https://github.com/naranararan/medipaw_FinalProject/assets/140357519/9a5fb63a-6c93-4ea0-8095-c18bb2a13f13">
-
-<div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=d6fff1&height=180&text=Nara's%20Github&animation=fadeIn&fontColor=000000&fontSize=60" />
-    </div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Medipaw&animation=fadeIn&fontColor=000000&fontSize=60" />
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
     <div  align= "center"> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=plastic&logo=Bootstrap&logoColor=white">
@@ -16,7 +10,6 @@
           <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=plastic&logo=Javascript&logoColor=white">
           <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=MySQL&logoColor=white">
           <img src="https://img.shields.io/badge/Oracle-F80000?style=plastic&logo=Oracle&logoColor=white">
-          <img src="https://img.shields.io/badge/Prettier-F7B93E?style=plastic&logo=Prettier&logoColor=white">
           <img src="https://img.shields.io/badge/Spring-6DB33F?style=plastic&logo=Spring&logoColor=white">
           </div>
     </div>
