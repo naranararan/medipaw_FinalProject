@@ -22,11 +22,19 @@
        </div> 
     </div>
   <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> ✅ 담당모듈 & 주요기능 </h2> <br> 
-- 로그인(시큐리티), 병원관계자, 병원리뷰, 분양게시판(사진첨부) + 댓글 <br>
-
-<h2>주요 기능</h2>
-- 회원가입 시 사업자등록번호 상태조회(국세청 api)를 하여 국세청에 등록된 번호인 경우에만 회원가입이 가능하다.
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> ✅ 담당모듈 </h2> <br> 
+      - 시큐리티 로그인
+      - 병원관계자
+      - 병원리뷰
+      - 분양게시판(사진첨부) + 댓글 <br>
+  </div>
+ <div style="text-align: left;">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🔍 주요기능 </h2> <br> 
+     - ROLE_MEMBER / ROLE_STAFF / ROLE_ADMIN 으로 시큐리티 권한 체크
+     - 사업자등록번호 상태조회 국세청API -> 회원가입 시 사업자등록번호 상태조회를 하여 국세청에 등록된 번호인 경우에만 회원가입이 가능하다. 
+     - 회원은 진료 내역 당 1번 리뷰(별점 + 내용) 를 작성할 수 있다. 
+     - 분양게시판에서 분양을 할 수 있고 작성자는 분양상태 수정 가능, 회원 간 댓글 및 쪽지 소통이 가능하다.
+ </div>
   <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 화면 구성 </h2> <br> 
 <img width="898" alt="image" src="https://github.com/naranararan/medipaw_FinalProject/assets/140357519/9a5fb63a-6c93-4ea0-8095-c18bb2a13f13">
