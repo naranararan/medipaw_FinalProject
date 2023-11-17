@@ -1,5 +1,5 @@
 # medipaw
-<img src="https://capsule-render.vercel.app/api?type=모양&color=색상코드&height=높이&section=header&text=텍스트&fontSize=텍스트크기" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=MEDIPAW&fontSize=90" />
 
 담당모듈: 로그인(시큐리티), 병원관계자, 병원리뷰, 분양게시판(사진첨부) + 댓글
 
