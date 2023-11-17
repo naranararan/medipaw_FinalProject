@@ -1,4 +1,4 @@
-# 쌍용 파이널 프로젝트 - 동물병원 예약 시스템(Medipaw)
+# Medipaw - 동물병원 예약 시스템 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Medipaw&animation=fadeIn&fontColor=000000&fontSize=60" />
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
