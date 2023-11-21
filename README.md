@@ -41,36 +41,36 @@
  </div>
  
 # 메인
-<img width="898" alt="image" src="https://github.com/naranararan/medipaw_FinalProject/assets/140357519/9a5fb63a-6c93-4ea0-8095-c18bb2a13f13">
+<img width="898" alt="image" src="https://github.com/naranararan/medipaw_FinalProject/assets/140357519/9a5fb63a-6c93-4ea0-8095-c18bb2a13f13"><br> 
 
 # 로그인(시큐리티 적용)
-<img width="396" alt="image" src="https://github.com/naranararan/medipaw_FinalProject/assets/140357519/1af9c625-fd5d-46a3-8162-25ffc4f6cd26">
-<img width="496" alt="image" src="https://github.com/naranararan/medipaw_FinalProject/assets/140357519/73f87f85-73c4-4b5b-b7f7-3e16d6cedf75">
-<img width="492" alt="image" src="https://github.com/naranararan/medipaw_FinalProject/assets/140357519/07dd546a-64c1-4691-b475-84acf57c64c8">
+<img width="396" alt="image" src="https://github.com/naranararan/medipaw_FinalProject/assets/140357519/1af9c625-fd5d-46a3-8162-25ffc4f6cd26"><br> 
+<img width="496" alt="image" src="https://github.com/naranararan/medipaw_FinalProject/assets/140357519/73f87f85-73c4-4b5b-b7f7-3e16d6cedf75"><br> 
+<img width="492" alt="image" src="https://github.com/naranararan/medipaw_FinalProject/assets/140357519/07dd546a-64c1-4691-b475-84acf57c64c8"><br> 
 
 # 병원관계자
-<img width="506" alt="image" src="https://github.com/naranararan/medipaw_FinalProject/assets/140357519/4ffe97c4-626d-45b2-b624-b423aa2025db">
+<img width="506" alt="image" src="https://github.com/naranararan/medipaw_FinalProject/assets/140357519/4ffe97c4-626d-45b2-b624-b423aa2025db"><br> 
 
 # 사업자등록번호 상태조회 api
-<img width="509" alt="image" src="https://github.com/naranararan/medipaw_FinalProject/assets/140357519/4fab9983-100c-4fad-baf1-2f74233d7fb4">
+<img width="509" alt="image" src="https://github.com/naranararan/medipaw_FinalProject/assets/140357519/4fab9983-100c-4fad-baf1-2f74233d7fb4"><br> 
 
 # 병원관계자 계정정보
-<img width="516" alt="image" src="https://github.com/naranararan/medipaw_FinalProject/assets/140357519/779af6a3-c939-454a-a696-04deed26f400">
-<img width="505" alt="image" src="https://github.com/naranararan/medipaw_FinalProject/assets/140357519/6df53ce6-6eae-4cf4-8b14-d232a124f860">
-<img width="514" alt="image" src="https://github.com/naranararan/medipaw_FinalProject/assets/140357519/a0aa0de9-80da-4153-a620-9937313c1c20">
-<img width="512" alt="image" src="https://github.com/naranararan/medipaw_FinalProject/assets/140357519/720e5d90-1a7b-4210-b11c-736c90683c9f">
+<img width="516" alt="image" src="https://github.com/naranararan/medipaw_FinalProject/assets/140357519/779af6a3-c939-454a-a696-04deed26f400"><br> 
+<img width="505" alt="image" src="https://github.com/naranararan/medipaw_FinalProject/assets/140357519/6df53ce6-6eae-4cf4-8b14-d232a124f860"><br> 
+<img width="514" alt="image" src="https://github.com/naranararan/medipaw_FinalProject/assets/140357519/a0aa0de9-80da-4153-a620-9937313c1c20"><br> 
+<img width="512" alt="image" src="https://github.com/naranararan/medipaw_FinalProject/assets/140357519/720e5d90-1a7b-4210-b11c-736c90683c9f"><br> 
 
 # 리뷰
-<img width="446" alt="image" src="https://github.com/naranararan/medipaw_FinalProject/assets/140357519/1fa44ede-7eee-4a7b-8009-9b5cd5a8089f">
-<img width="504" alt="image" src="https://github.com/naranararan/medipaw_FinalProject/assets/140357519/cfcd6c08-0a42-4eb8-9110-6a8b53c869a7">
-<img width="516" alt="image" src="https://github.com/naranararan/medipaw_FinalProject/assets/140357519/958fe95e-47e1-4056-bddc-d7623ad31b1e">
+<img width="446" alt="image" src="https://github.com/naranararan/medipaw_FinalProject/assets/140357519/1fa44ede-7eee-4a7b-8009-9b5cd5a8089f"><br> 
+<img width="504" alt="image" src="https://github.com/naranararan/medipaw_FinalProject/assets/140357519/cfcd6c08-0a42-4eb8-9110-6a8b53c869a7"><br> 
+<img width="516" alt="image" src="https://github.com/naranararan/medipaw_FinalProject/assets/140357519/958fe95e-47e1-4056-bddc-d7623ad31b1e"><br> 
 
 # 분양게시판
-<img width="520" alt="image" src="https://github.com/naranararan/medipaw_FinalProject/assets/140357519/72198cd9-3b83-49b9-9822-e96a9e6a93c6">
-<img width="492" alt="image" src="https://github.com/naranararan/medipaw_FinalProject/assets/140357519/5ee0cd86-a993-439b-9c3f-5f3485a33f5c">
-<img width="521" alt="image" src="https://github.com/naranararan/medipaw_FinalProject/assets/140357519/534fb522-fd46-4dac-88c5-293699304d63">
-<img width="510" alt="image" src="https://github.com/naranararan/medipaw_FinalProject/assets/140357519/2d01a141-877b-4e42-b49a-ba93bc00706d">
-<img width="526" alt="image" src="https://github.com/naranararan/medipaw_FinalProject/assets/140357519/3ca23ae2-7587-4c0a-a399-777758e390d8">
+<img width="520" alt="image" src="https://github.com/naranararan/medipaw_FinalProject/assets/140357519/72198cd9-3b83-49b9-9822-e96a9e6a93c6"><br> 
+<img width="492" alt="image" src="https://github.com/naranararan/medipaw_FinalProject/assets/140357519/5ee0cd86-a993-439b-9c3f-5f3485a33f5c"><br> 
+<img width="521" alt="image" src="https://github.com/naranararan/medipaw_FinalProject/assets/140357519/534fb522-fd46-4dac-88c5-293699304d63"><br> 
+<img width="510" alt="image" src="https://github.com/naranararan/medipaw_FinalProject/assets/140357519/2d01a141-877b-4e42-b49a-ba93bc00706d"><br> 
+<img width="526" alt="image" src="https://github.com/naranararan/medipaw_FinalProject/assets/140357519/3ca23ae2-7587-4c0a-a399-777758e390d8"><br> 
 
 
 
