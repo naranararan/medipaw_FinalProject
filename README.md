@@ -30,14 +30,14 @@
   </div>
  <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🔍 주요기능 </h2> <br> 
-     - ROLE_MEMBER / ROLE_STAFF / ROLE_ADMIN 으로 시큐리티 권한 체크<br> 
-     - 
-     
+
 **사업자등록번호 상태조회 국세청API**
-     
-     -> 회원가입 시 사업자등록번호 상태조회를 하여 국세청에 등록된 번호인 경우에만 회원가입이 가능하다. <br> 
+    -->  회원가입 시 사업자등록번호 상태조회를 하여 국세청에 등록된 번호인 경우에만 회원가입이 가능하다. <br> 
      - 회원은 진료 내역 당 1번 리뷰(별점 + 내용) 를 작성할 수 있다. <br> 
      - 분양게시판에서 분양을 할 수 있고 작성자는 분양상태 수정 가능, 회원 간 댓글 및 쪽지 소통이 가능하다.<br> 
+     - ROLE_MEMBER / ROLE_STAFF / ROLE_ADMIN 으로 시큐리티 권한 체크<br> 
+
+     
  </div>
  
 # 메인
@@ -54,7 +54,7 @@
 # 사업자등록번호 상태조회 api
 <img width="509" alt="image" src="https://github.com/naranararan/medipaw_FinalProject/assets/140357519/4fab9983-100c-4fad-baf1-2f74233d7fb4">
 
-# 병원관계자 계정정보보
+# 병원관계자 계정정보
 <img width="516" alt="image" src="https://github.com/naranararan/medipaw_FinalProject/assets/140357519/779af6a3-c939-454a-a696-04deed26f400">
 <img width="505" alt="image" src="https://github.com/naranararan/medipaw_FinalProject/assets/140357519/6df53ce6-6eae-4cf4-8b14-d232a124f860">
 <img width="514" alt="image" src="https://github.com/naranararan/medipaw_FinalProject/assets/140357519/a0aa0de9-80da-4153-a620-9937313c1c20">
