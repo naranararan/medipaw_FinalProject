@@ -35,10 +35,17 @@
      - 회원은 진료 내역 당 1번 리뷰(별점 + 내용) 를 작성할 수 있다. <br> 
      - 분양게시판에서 분양을 할 수 있고 작성자는 분양상태 수정 가능, 회원 간 댓글 및 쪽지 소통이 가능하다.<br> 
  </div>
-  <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 화면 구성 </h2> <br> 
+# 메인
 <img width="898" alt="image" src="https://github.com/naranararan/medipaw_FinalProject/assets/140357519/9a5fb63a-6c93-4ea0-8095-c18bb2a13f13">
+# 로그인(시큐리티 적용)
+<img width="396" alt="image" src="https://github.com/naranararan/medipaw_FinalProject/assets/140357519/1af9c625-fd5d-46a3-8162-25ffc4f6cd26">
+<img width="496" alt="image" src="https://github.com/naranararan/medipaw_FinalProject/assets/140357519/73f87f85-73c4-4b5b-b7f7-3e16d6cedf75">
+<img width="492" alt="image" src="https://github.com/naranararan/medipaw_FinalProject/assets/140357519/07dd546a-64c1-4691-b475-84acf57c64c8">
+# 병원관계자
+<img width="506" alt="image" src="https://github.com/naranararan/medipaw_FinalProject/assets/140357519/4ffe97c4-626d-45b2-b624-b423aa2025db">
+# 사업자등록번호 상태조회 api
 <img width="509" alt="image" src="https://github.com/naranararan/medipaw_FinalProject/assets/140357519/4fab9983-100c-4fad-baf1-2f74233d7fb4">
+# 병원관계자 계정정보보
 <img width="516" alt="image" src="https://github.com/naranararan/medipaw_FinalProject/assets/140357519/779af6a3-c939-454a-a696-04deed26f400">
 <img width="505" alt="image" src="https://github.com/naranararan/medipaw_FinalProject/assets/140357519/6df53ce6-6eae-4cf4-8b14-d232a124f860">
 <img width="514" alt="image" src="https://github.com/naranararan/medipaw_FinalProject/assets/140357519/a0aa0de9-80da-4153-a620-9937313c1c20">
@@ -57,4 +64,4 @@
 <img width="526" alt="image" src="https://github.com/naranararan/medipaw_FinalProject/assets/140357519/3ca23ae2-7587-4c0a-a399-777758e390d8">
 
 
-</div>
+
