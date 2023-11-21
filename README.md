@@ -31,13 +31,14 @@
  <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🔍 주요기능 </h2> <br> 
      - ROLE_MEMBER / ROLE_STAFF / ROLE_ADMIN 으로 시큐리티 권한 체크<br> 
-     - # 사업자등록번호 상태조회 국세청API -> 회원가입 시 사업자등록번호 상태조회를 하여 국세청에 등록된 번호인 경우에만 회원가입이 가능하다. <br> 
+     - 사업자등록번호 상태조회 국세청API -> 회원가입 시 사업자등록번호 상태조회를 하여 국세청에 등록된 번호인 경우에만 회원가입이 가능하다. <br> 
      - 회원은 진료 내역 당 1번 리뷰(별점 + 내용) 를 작성할 수 있다. <br> 
      - 분양게시판에서 분양을 할 수 있고 작성자는 분양상태 수정 가능, 회원 간 댓글 및 쪽지 소통이 가능하다.<br> 
  </div>
   <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 화면 구성 </h2> <br> 
 <img width="898" alt="image" src="https://github.com/naranararan/medipaw_FinalProject/assets/140357519/9a5fb63a-6c93-4ea0-8095-c18bb2a13f13">
+![image](https://github.com/naranararan/medipaw_FinalProject/assets/140357519/c3f18e66-8b39-4464-9cda-23435a44acb3)
 
 
 </div>
