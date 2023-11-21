@@ -38,7 +38,7 @@
   <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 화면 구성 </h2> <br> 
 <img width="898" alt="image" src="https://github.com/naranararan/medipaw_FinalProject/assets/140357519/9a5fb63a-6c93-4ea0-8095-c18bb2a13f13">
-![image](https://github.com/naranararan/medipaw_FinalProject/assets/140357519/c3f18e66-8b39-4464-9cda-23435a44acb3)
+![사업자등록](https://github.com/naranararan/medipaw_FinalProject/assets/140357519/5bc69d80-3b7f-488b-a9cd-2612733c5589)
 
 
 </div>
