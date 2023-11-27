@@ -62,7 +62,7 @@
 # 리뷰
 <img width="504" alt="image" src="https://github.com/naranararan/medipaw_FinalProject/assets/140357519/cfcd6c08-0a42-4eb8-9110-6a8b53c869a7"><br> 
 <img width="516" alt="image" src="https://github.com/naranararan/medipaw_FinalProject/assets/140357519/958fe95e-47e1-4056-bddc-d7623ad31b1e"><br> 
-
+<img width="446" alt="image" src="https://github.com/naranararan/medipaw_FinalProject/assets/140357519/1fa44ede-7eee-4a7b-8009-9b5cd5a8089f"><br> 
 # 분양게시판
 <img width="520" alt="image" src="https://github.com/naranararan/medipaw_FinalProject/assets/140357519/72198cd9-3b83-49b9-9822-e96a9e6a93c6"><br> 
 
