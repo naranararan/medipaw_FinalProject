@@ -60,16 +60,12 @@
 <img width="512" alt="image" src="https://github.com/naranararan/medipaw_FinalProject/assets/140357519/720e5d90-1a7b-4210-b11c-736c90683c9f"><br> 
 
 # 리뷰
-<img width="446" alt="image" src="https://github.com/naranararan/medipaw_FinalProject/assets/140357519/1fa44ede-7eee-4a7b-8009-9b5cd5a8089f"><br> 
 <img width="504" alt="image" src="https://github.com/naranararan/medipaw_FinalProject/assets/140357519/cfcd6c08-0a42-4eb8-9110-6a8b53c869a7"><br> 
 <img width="516" alt="image" src="https://github.com/naranararan/medipaw_FinalProject/assets/140357519/958fe95e-47e1-4056-bddc-d7623ad31b1e"><br> 
 
 # 분양게시판
 <img width="520" alt="image" src="https://github.com/naranararan/medipaw_FinalProject/assets/140357519/72198cd9-3b83-49b9-9822-e96a9e6a93c6"><br> 
-<img width="492" alt="image" src="https://github.com/naranararan/medipaw_FinalProject/assets/140357519/5ee0cd86-a993-439b-9c3f-5f3485a33f5c"><br> 
-<img width="521" alt="image" src="https://github.com/naranararan/medipaw_FinalProject/assets/140357519/534fb522-fd46-4dac-88c5-293699304d63"><br> 
-<img width="510" alt="image" src="https://github.com/naranararan/medipaw_FinalProject/assets/140357519/2d01a141-877b-4e42-b49a-ba93bc00706d"><br> 
-<img width="526" alt="image" src="https://github.com/naranararan/medipaw_FinalProject/assets/140357519/3ca23ae2-7587-4c0a-a399-777758e390d8"><br> 
+
 
 
 
